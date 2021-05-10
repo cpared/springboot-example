@@ -1,0 +1,37 @@
+[ {
+  "firstName" : null,
+  "lastName" : "Pared",
+  "dni" : 36109786,
+  "direction" : "Juana Manso",
+  "provincia" : "Buenos aires"
+}, {
+  "firstName" : "Loki",
+  "lastName" : "Pared",
+  "dni" : 36109786,
+  "direction" : "Juana Manso",
+  "provincia" : "Buenos aires"
+}, {
+  "firstName" : "Loki",
+  "lastName" : "Pared",
+  "dni" : 36109786,
+  "direction" : "Juana Manso",
+  "provincia" : "Ningun lugar"
+}, {
+  "firstName" : "Loki",
+  "lastName" : "Pared",
+  "dni" : 36109786,
+  "direction" : "Juana Manso",
+  "provincia" : "cordoba"
+}, {
+  "firstName" : "Loki",
+  "lastName" : "Pared",
+  "dni" : 213135,
+  "direction" : "Juana Manso",
+  "provincia" : "buenos aires"
+}, {
+  "firstName" : "Loki",
+  "lastName" : "Pared",
+  "dni" : 4455,
+  "direction" : "Juana Manso",
+  "provincia" : "Buenos Aires"
+} ]
